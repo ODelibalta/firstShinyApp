@@ -20,7 +20,7 @@ The Shiny application in question is entirely up to you. However, if you're havi
 This shiny app uses data gathered from (World Health Organization)[http://apps.who.int/gho/data/node.main.688?lang=en]. It focuses on the life expectancy years at birth and at sixty years old categorized by gender. Data spans across multiple years but the number of years available may vary depending on the selected country. 
 
 ## How to use this app 
-You may use this app on shinyapps.io servers by following (this link)[https://odelibalta.shinyapps.io/LifeExpentancyWHOrg)
+You may use this app on shinyapps.io servers by following (this link)[https://odelibalta.shinyapps.io/LifeExpentancyWHOrg]
 If you wish to run the app locally, please use the following commands in R 
 ```r
 library(shiny)
